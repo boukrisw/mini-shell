@@ -1,0 +1,47 @@
+/*
+ *Authors:
+ ********BOUKRIS WALID***************
+ ********SOW OUSMANE*****************
+ ********Mini-shell: L3 MIAGE********
+ *************2019-2020**************
+ */
+
+ /***********************JOURNAL***********************/
+
+04/11/2019:
+    <> EXO1 et EXO2 de TP04/05
+    <> Lecture de projet.
+    <> Methode Lire_commande
+    <> commande intern & extern
+    <> Gerer un seul Pipe
+
+05/11/2019:
+    <> Makefile
+    <> Le script shell Exec.sh
+    <> Methode nbPipes
+    <> Gestion d'un nombre quelconque de pipes (n_pipe)
+    <> Rapport
+
+10/11/2019:
+    <> Methode red_Entree
+    <> Methode red_Sortie
+    <> Gestion des redirections
+
+11/11/2019:
+    <> Tests de taches realisees
+    <> Methodes afficher et afficher_cmd pour voir le bon fonctionnement
+    des lectures!
+
+12/11/2019:
+    <> Structure readcmd
+    <> integration de shell avec la Structure readcmd
+
+12/11/2019:
+    <> Gestion des cas particuliers
+    <> integration de shell avec la Structure readcmd
+
+
+**********************************NON realisé****************************************************
+********  > "&" fonctionne pas  ********
+********  > Signaux   (Echappe)          ********
+********************************************************************************************
